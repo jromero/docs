@@ -62,7 +62,7 @@ The app should now be running and accessible via [localhost:8080](http://localho
 
 ---
 
-## Using remote Docker hosts
+## Using Remote Docker hosts
 
 `pack` and your source code don't need to be on the same machine as your Docker daemon, thanks to support for the [`DOCKER_HOST`][docker-env-vars] environment variable. 
 
